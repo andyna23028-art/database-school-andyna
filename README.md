@@ -1,11 +1,11 @@
 📚 **Backend Assignment – Sekolah Database**
 
-Ini adalah project backend sederhana yang berisi file `schoolproject.sql` untuk membuat dan mengelola database sekolah sebagai bagian dari tugas kuliah Backend & Version Control.
+Ini adalah project backend sederhana yang berisi file `sekolah.sql` untuk membuat dan mengelola database sekolah sebagai bagian dari tugas kuliah Backend & Version Control.
 
 ---
 
 📂 **Isi File**
-- `schoolproject.sql`: Berisi query SQL untuk membuat database `schoolproject`, tabel `siswa` dan `nilai`, serta operasi dasar seperti SELECT, JOIN, UPDATE, dan DELETE.
+- `sekolah.sql`: Berisi query SQL untuk membuat database `schoolproject`, tabel `siswa` dan `nilai`, serta operasi dasar seperti SELECT, JOIN, UPDATE, dan DELETE.
 
 ---
 
@@ -19,7 +19,7 @@ Ini adalah project backend sederhana yang berisi file `schoolproject.sql` untuk 
 🚀 **Cara Import ke DBeaver**
 1. Buka DBeaver dan koneksi ke database PostgreSQL.
 2. Klik kanan pada koneksi → **SQL Editor** → **Open SQL Script**.
-3. Pilih file `schoolproject.sql`.
+3. Pilih file `sekolah.sql`.
 4. Jalankan semua query untuk membuat dan mengisi database.
 
 ---
