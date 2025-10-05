@@ -3,10 +3,10 @@
 -- Tugas: Membuat database, tabel, relasi, query, dan version control
 
 -- 1. Membuat Database
-CREATE DATABASE schoolproject;
+CREATE DATABASE sekolah;
 
 -- 2. Menggunakan Database (untuk MySQL)
-USE schoolproject;
+USE sekolah;
 
 -- 3. Membuat Tabel Siswa
 CREATE TABLE siswa (
